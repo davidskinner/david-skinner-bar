@@ -1,0 +1,15 @@
+Cheats: Tweak unit to fix wind to stable value
+decoded:
+{
+  armwin = { 
+    windgenerator = 0,
+    energyupkeep = -14.2
+  },
+  corwin = {
+    windgenerator = 0,
+    energyupkeep = -14.2
+  }
+}
+
+encoded:
+ewogIGFybXdpbiA9IHsgCiAgICB3aW5kZ2VuZXJhdG9yID0gMCwKICAgIGVuZXJneXVwa2VlcCA9IC0xNC4yCiAgfSwKICBjb3J3aW4gPSB7CiAgICB3aW5kZ2VuZXJhdG9yID0gMCwKICAgIGVuZXJneXVwa2VlcCA9IC0xNC4yCiAgfQp9
